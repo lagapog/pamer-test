@@ -1,0 +1,13 @@
+{
+  "name": "pamer-test",
+  "version": "1.0.0",
+  "description": "Pamer test",
+  "scripts": {
+    "check-game-1": "npx tsc game-01/index.ts && node game-01/index.js"
+  },
+  "author": "Luis Agapito",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.3.2"
+  }
+}
